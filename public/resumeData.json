@@ -9,48 +9,31 @@
     "email": "danielmson21@gmail.com",
     "phone": "571-216-7970",
     "address":{
-      "street":"(Your Street)",
       "city":"Los Angeles",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "state":"CA"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "tbu",
+    "resumedownload":"tbu",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/daniel.m.son/",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/dson21/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/dson21",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/subtleasian",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
