@@ -2,9 +2,9 @@
   "main": {
     "name":"Daniel Son",
     "occupation":"Finance and Tech professional",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"I am a BizOps Sales & Marketing Finance Strategist Excel Wizard Entrepreneur. After graduating from UVA with a MS in Finance, I gained about $450M of M&A and Private Placement deal experience at an Investment Bank.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"My industry experience ranges across B2B Enterprise Software, SaaS, Big Data / AI / Machine Learning, EdTech, ERP, SCM, and Cybersecurity. Since then, I've worked as a Manager of Pre-Sales at a Big Data AI Supply Chain startup, and as a Sr. Financial Analyst at a MarTech startup.",
     "contactmessage":"Send me a note if you'd like to get into contact!",
     "email": "danielmson21@gmail.com",
     "phone": "571-216-7970",
@@ -41,16 +41,16 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of Virginia",
+        "degree":"MSc, Finance",
+        "graduated":"August 2015",
+        "description":"Financial Modeling, Black-Scholes Model, Valuations, DCF, LBO"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"",
+        "degree":"BA, Cognitive Science",
+        "graduated":"May 2014",
+        "description":"[TBU]"
       }
     ],
     "work":[
